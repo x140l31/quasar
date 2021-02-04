@@ -110,8 +110,8 @@ $ icongenie generate -h
     --padding             Apply fixed padding to the icon after trimming it;
                           Syntax: <horiz: number>,<vert: number>
                           Default: 0,0
-                          Example: "--padding 10,5" means apply 10px padding to top
-                            10px to bottom, 5px to left side and 5px to rightside
+                          Example: "--padding 10,5" means apply 5px padding to top
+                            5px to bottom, 10px to left side and 10px to rightside
 
     --theme-color         Theme color to use for all generators requiring a color;
                           It gets overridden if any generator color is also specified;
